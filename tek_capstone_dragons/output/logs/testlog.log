@@ -1,0 +1,1321 @@
+2022-12-05 18:31:36,432 - logger_File -INFO - React Appis equal to React App
+2022-12-05 18:31:36,725 - logger_File -INFO - user clicked on Sign In option
+2022-12-05 18:33:59,021 - logger_File -INFO - React Appis equal to React App
+2022-12-05 18:33:59,345 - logger_File -INFO - user clicked on Sign In option
+2022-12-05 18:33:59,685 - logger_File -INFO - user entered email anisa@reatail.comand password Love90123$
+2022-12-05 18:33:59,789 - logger_File -INFO - user clicked on login button
+2022-12-05 18:36:00,920 - logger_File -INFO - React Appis equal to React App
+2022-12-05 18:36:01,225 - logger_File -INFO - user clicked on Sign In option
+2022-12-05 18:36:01,553 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-05 18:36:01,667 - logger_File -INFO - user clicked on login button
+2022-12-05 18:36:01,924 - logger_File -INFO - user logged in ito account
+2022-12-05 18:41:37,090 - logger_File -INFO - React Appis equal to React App
+2022-12-05 18:41:37,623 - logger_File -INFO - user clicked on Sign In option
+2022-12-05 18:41:37,857 - logger_File -INFO - user clicked on Create New Account button
+2022-12-05 18:41:38,917 - logger_File -INFO - user entered required information into sign up form
+2022-12-05 18:41:39,090 - logger_File -INFO - user clicked on Sign up Button
+2022-12-05 18:42:29,472 - logger_File -INFO - React Appis equal to React App
+2022-12-05 18:42:30,035 - logger_File -INFO - user clicked on Sign In option
+2022-12-05 18:42:30,275 - logger_File -INFO - user clicked on Create New Account button
+2022-12-05 18:42:31,279 - logger_File -INFO - user entered required information into sign up form
+2022-12-05 18:42:31,455 - logger_File -INFO - user clicked on Sign up Button
+2022-12-05 18:42:52,464 - logger_File -INFO - React Appis equal to React App
+2022-12-05 18:42:52,896 - logger_File -INFO - user clicked on Sign In option
+2022-12-05 18:42:53,075 - logger_File -INFO - user clicked on Create New Account button
+2022-12-05 18:42:53,867 - logger_File -INFO - user entered required information into sign up form
+2022-12-05 18:42:54,024 - logger_File -INFO - user clicked on Sign up Button
+2022-12-05 18:43:34,810 - logger_File -INFO - React Appis equal to React App
+2022-12-05 18:43:35,294 - logger_File -INFO - user clicked on Sign In option
+2022-12-05 18:43:35,492 - logger_File -INFO - user clicked on Create New Account button
+2022-12-05 18:43:36,259 - logger_File -INFO - user entered required information into sign up form
+2022-12-05 18:43:36,380 - logger_File -INFO - user clicked on Sign up Button
+2022-12-06 18:19:04,467 - logger_File -INFO - React App is equal to React App
+2022-12-06 18:19:04,679 - logger_File -INFO - User clicked on All Section successfully
+2022-12-06 18:19:04,760 - logger_File -INFO - options Electronics, Computers, Smart Home, Sports and Automative are present
+2022-12-06 18:20:42,877 - logger_File -INFO - React App is equal to React App
+2022-12-06 18:20:43,020 - logger_File -INFO - User clicked on All Section successfully
+2022-12-06 18:20:43,081 - logger_File -INFO - user is on Electronics section
+2022-12-06 18:20:43,258 - logger_File -INFO - Video Games options are present in departmentTV & Video
+2022-12-06 18:20:46,661 - logger_File -INFO - React App is equal to React App
+2022-12-06 18:20:46,807 - logger_File -INFO - User clicked on All Section successfully
+2022-12-06 18:20:46,865 - logger_File -INFO - user is on Computers section
+2022-12-06 18:20:47,051 - logger_File -INFO - Accessories options are present in departmentNetworking
+2022-12-06 18:20:50,806 - logger_File -INFO - React App is equal to React App
+2022-12-06 18:20:50,998 - logger_File -INFO - User clicked on All Section successfully
+2022-12-06 18:20:51,069 - logger_File -INFO - user is on Smart Home section
+2022-12-06 18:20:51,275 - logger_File -INFO - Smart Home Lightning options are present in departmentPlugs and Outlets
+2022-12-06 18:20:54,954 - logger_File -INFO - React App is equal to React App
+2022-12-06 18:20:55,142 - logger_File -INFO - User clicked on All Section successfully
+2022-12-06 18:20:55,199 - logger_File -INFO - user is on Sports section
+2022-12-06 18:20:55,448 - logger_File -INFO - Athletic Clothing options are present in departmentExercise & Fitness
+2022-12-06 18:20:59,257 - logger_File -INFO - React App is equal to React App
+2022-12-06 18:20:59,435 - logger_File -INFO - User clicked on All Section successfully
+2022-12-06 18:20:59,492 - logger_File -INFO - user is on Automotive section
+2022-12-06 18:20:59,707 - logger_File -INFO - MotorCycle & Powersports options are present in departmentAutomative Parts & Accessories
+2022-12-06 18:22:18,224 - logger_File -INFO - React App is equal to React App
+2022-12-06 18:25:13,660 - logger_File -INFO - React App is equal to React App
+2022-12-06 18:25:13,844 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-06 18:25:14,157 - logger_File -INFO - user entered emailcapstoneanisa@test.comand passwordLove90123$
+2022-12-06 18:25:14,251 - logger_File -INFO - user clicked on login button
+2022-12-06 18:25:14,652 - logger_File -INFO - User could login successfully
+2022-12-06 18:25:14,764 - logger_File -INFO - All Department changed toSmart Home
+2022-12-06 18:25:14,928 - logger_File -INFO - user entred kasa outdoor smart plug
+2022-12-06 18:25:15,027 - logger_File -INFO - user clicked on search button
+2022-12-06 18:25:15,229 - logger_File -INFO - user clicked on item
+2022-12-06 18:25:15,435 - logger_File -INFO - user selected quantity '2' 
+2022-12-06 18:25:15,599 - logger_File -INFO - user clicked on Add To Cart
+2022-12-06 18:25:15,639 - logger_File -INFO - cart icone changed to '2' 
+2022-12-06 18:26:02,334 - logger_File -INFO - React App is equal to React App
+2022-12-06 18:36:05,976 - logger_File -INFO - React App is equal to React App
+2022-12-06 18:36:06,200 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-06 18:36:06,528 - logger_File -INFO - user entered emailcapstoneanisa@test.comand passwordLove90123$
+2022-12-06 18:36:06,634 - logger_File -INFO - user clicked on login button
+2022-12-06 18:36:06,879 - logger_File -INFO - User could login successfully
+2022-12-06 18:36:06,984 - logger_File -INFO - All Department changed toSmart Home
+2022-12-06 18:36:07,153 - logger_File -INFO - user entred kasa outdoor smart plug
+2022-12-06 18:36:07,253 - logger_File -INFO - user clicked on search button
+2022-12-06 18:36:07,447 - logger_File -INFO - user clicked on item
+2022-12-06 18:36:07,654 - logger_File -INFO - user selected quantity '2' 
+2022-12-06 18:36:07,819 - logger_File -INFO - user clicked on Add To Cart
+2022-12-06 18:36:07,850 - logger_File -INFO - cart icone changed to '2' 
+2022-12-06 18:36:44,394 - logger_File -INFO - React App is equal to React App
+2022-12-06 18:36:44,577 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-06 18:36:44,921 - logger_File -INFO - user entered emailcapstoneanisa@test.comand passwordLove90123$
+2022-12-06 18:36:45,018 - logger_File -INFO - user clicked on login button
+2022-12-06 18:36:45,254 - logger_File -INFO - User could login successfully
+2022-12-06 18:36:45,365 - logger_File -INFO - All Department changed toSmart Home
+2022-12-06 18:36:45,519 - logger_File -INFO - user entred kasa outdoor smart plug
+2022-12-06 18:36:45,614 - logger_File -INFO - user clicked on search button
+2022-12-06 18:36:45,796 - logger_File -INFO - user clicked on item
+2022-12-06 18:36:46,012 - logger_File -INFO - user selected quantity '2' 
+2022-12-06 18:36:46,156 - logger_File -INFO - user clicked on Add To Cart
+2022-12-06 18:36:46,200 - logger_File -INFO - cart icone changed to '2' 
+2022-12-06 18:39:49,810 - logger_File -INFO - React App is equal to React App
+2022-12-06 19:01:48,583 - logger_File -INFO - React App is equal to React App
+2022-12-07 17:54:49,243 - logger_File -INFO - React App is equal to React App
+2022-12-07 18:07:27,415 - logger_File -INFO - React App is equal to React App
+2022-12-07 18:21:46,386 - logger_File -INFO - React App is equal to React App
+2022-12-07 18:26:09,307 - logger_File -INFO - React App is equal to React App
+2022-12-07 18:33:32,399 - logger_File -INFO - React App is equal to React App
+2022-12-07 18:40:36,866 - logger_File -INFO - React App is equal to React App
+2022-12-07 18:40:37,116 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-07 18:40:37,612 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-07 18:40:37,732 - logger_File -INFO - user clicked on login button
+2022-12-07 18:40:38,004 - logger_File -INFO - user logged in ito account
+2022-12-07 18:40:38,133 - logger_File -INFO - All Department changed toSmart Home
+2022-12-07 18:40:38,309 - logger_File -INFO - user entred kasa outdoor smart plug
+2022-12-07 18:40:38,424 - logger_File -INFO - user clicked on search button
+2022-12-07 18:40:38,671 - logger_File -INFO - user clicked on item
+2022-12-07 18:40:38,926 - logger_File -INFO - user selected quantity '2' 
+2022-12-07 18:40:39,128 - logger_File -INFO - user clicked on Add To Cart
+2022-12-07 18:40:39,170 - logger_File -INFO - cart icone changed to '2' 
+2022-12-07 18:40:39,311 - logger_File -INFO - user clicked on Cart Option
+2022-12-07 18:40:39,522 - logger_File -INFO - user clicked on Proceed to Checkout
+2022-12-07 18:40:39,739 - logger_File -INFO - user clicked on Add New Address link
+2022-12-07 18:40:40,799 - logger_File -INFO - User filled the field
+2022-12-07 18:40:40,939 - logger_File -INFO - user clicked Add Your Address Button
+2022-12-07 18:40:41,001 - logger_File -INFO - user clicked Add a credit card information
+2022-12-08 17:04:59,322 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:04:59,695 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 17:05:00,356 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 17:05:00,516 - logger_File -INFO - user clicked on login button
+2022-12-08 17:05:00,817 - logger_File -INFO - user logged in ito account
+2022-12-08 17:05:01,058 - logger_File -INFO - All Department changed toSmart Home
+2022-12-08 17:05:01,306 - logger_File -INFO - user entred kasa outdoor smart plug
+2022-12-08 17:05:01,459 - logger_File -INFO - user clicked on search button
+2022-12-08 17:05:01,769 - logger_File -INFO - user clicked on item
+2022-12-08 17:05:02,063 - logger_File -INFO - user selected quantity '2' 
+2022-12-08 17:05:02,294 - logger_File -INFO - user clicked on Add To Cart
+2022-12-08 17:05:02,348 - logger_File -INFO - cart icone changed to '2' 
+2022-12-08 17:05:02,539 - logger_File -INFO - user clicked on Cart Option
+2022-12-08 17:05:02,826 - logger_File -INFO - user clicked on Proceed to Checkout
+2022-12-08 17:05:03,089 - logger_File -INFO - user clicked on Add New Address link
+2022-12-08 17:05:04,497 - logger_File -INFO - User filled the field
+2022-12-08 17:05:04,734 - logger_File -INFO - user clicked Add Your Address Button
+2022-12-08 17:05:04,828 - logger_File -INFO - user clicked Add a credit card information
+2022-12-08 17:13:48,023 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:13:48,280 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 17:13:48,791 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 17:13:48,916 - logger_File -INFO - user clicked on login button
+2022-12-08 17:13:49,180 - logger_File -INFO - user logged in ito account
+2022-12-08 17:13:49,297 - logger_File -INFO - All Department changed toSmart Home
+2022-12-08 17:13:49,488 - logger_File -INFO - user entred kasa outdoor smart plug
+2022-12-08 17:13:49,603 - logger_File -INFO - user clicked on search button
+2022-12-08 17:13:49,916 - logger_File -INFO - user clicked on item
+2022-12-08 17:13:50,192 - logger_File -INFO - user selected quantity '2' 
+2022-12-08 17:13:50,328 - logger_File -INFO - user clicked on Add To Cart
+2022-12-08 17:13:50,361 - logger_File -INFO - cart icone changed to '2' 
+2022-12-08 17:13:50,508 - logger_File -INFO - user clicked on Cart Option
+2022-12-08 17:13:50,715 - logger_File -INFO - user clicked on Proceed to Checkout
+2022-12-08 17:13:50,918 - logger_File -INFO - user clicked on Add New Address link
+2022-12-08 17:13:52,027 - logger_File -INFO - User filled the field
+2022-12-08 17:13:52,177 - logger_File -INFO - user clicked Add Your Address Button
+2022-12-08 17:13:52,239 - logger_File -INFO - user clicked Add a credit card information
+2022-12-08 16:40:26,373 - logger_File -INFO - React App is equal to React App
+2022-12-08 16:40:26,517 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 16:40:26,734 - logger_File -INFO - user entered email David@gmail.comand password Usa$12345
+2022-12-08 16:40:26,809 - logger_File -INFO - user clicked on login button
+2022-12-08 16:40:27,086 - logger_File -INFO - user logged in ito account
+2022-12-08 16:40:27,179 - logger_File -INFO - All Department changed toSmart Home
+2022-12-08 16:40:27,268 - logger_File -INFO - user entred kasa outdoor smart plug
+2022-12-08 16:40:27,324 - logger_File -INFO - user clicked on search button
+2022-12-08 16:40:27,530 - logger_File -INFO - user clicked on item
+2022-12-08 16:40:27,711 - logger_File -INFO - user selected quantity '2' 
+2022-12-08 16:40:27,787 - logger_File -INFO - user clicked on Add To Cart
+2022-12-08 16:40:27,808 - logger_File -INFO - cart icone changed to '2' 
+2022-12-08 16:40:27,868 - logger_File -INFO - user clicked on Cart Option
+2022-12-08 16:40:27,959 - logger_File -INFO - user clicked on Proceed to Checkout
+2022-12-08 16:40:28,055 - logger_File -INFO - user clicked on Add New Address link
+2022-12-08 16:40:28,652 - logger_File -INFO - User filled the field
+2022-12-08 16:40:28,735 - logger_File -INFO - user clicked Add Your Address Button
+2022-12-08 16:40:28,766 - logger_File -INFO - user clicked Add a credit card information
+2022-12-08 17:00:28,234 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:00:28,369 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 17:00:28,571 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 17:00:28,643 - logger_File -INFO - user clicked on login button
+2022-12-08 17:00:28,922 - logger_File -INFO - user logged in ito account
+2022-12-08 17:01:55,026 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:03:16,727 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:03:16,857 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 17:03:16,930 - logger_File -INFO - user clicked on Create New Account button
+2022-12-08 17:03:17,270 - logger_File -INFO - user entered required information into sign up form
+2022-12-08 17:03:17,339 - logger_File -INFO - user clicked on Sign up Button
+2022-12-08 17:04:47,570 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:04:47,687 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 17:04:47,761 - logger_File -INFO - user clicked on Create New Account button
+2022-12-08 17:04:48,088 - logger_File -INFO - user entered required information into sign up form
+2022-12-08 17:04:48,147 - logger_File -INFO - user clicked on Sign up Button
+2022-12-08 17:05:14,168 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:05:14,306 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 17:05:14,378 - logger_File -INFO - user clicked on Create New Account button
+2022-12-08 17:05:14,733 - logger_File -INFO - user entered required information into sign up form
+2022-12-08 17:05:14,793 - logger_File -INFO - user clicked on Sign up Button
+2022-12-08 17:06:39,140 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:06:39,270 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 17:06:39,345 - logger_File -INFO - user clicked on Create New Account button
+2022-12-08 17:06:39,688 - logger_File -INFO - user entered required information into sign up form
+2022-12-08 17:06:39,747 - logger_File -INFO - user clicked on Sign up Button
+2022-12-08 17:06:40,019 - logger_File -INFO - user logged in
+2022-12-08 17:07:15,831 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:07:15,936 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 17:07:15,985 - logger_File -INFO - options Electronics, Computers, Smart Home, Sports and Automative are present
+2022-12-08 17:07:38,486 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:07:38,609 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 17:07:38,650 - logger_File -INFO - user is on Electronics section
+2022-12-08 17:07:38,774 - logger_File -INFO - Video Games options are present in departmentTV & Video
+2022-12-08 17:07:41,654 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:07:41,744 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 17:07:41,782 - logger_File -INFO - user is on Computers section
+2022-12-08 17:07:41,930 - logger_File -INFO - Accessories options are present in departmentNetworking
+2022-12-08 17:07:44,748 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:07:44,844 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 17:07:44,879 - logger_File -INFO - user is on Smart Home section
+2022-12-08 17:07:45,017 - logger_File -INFO - Smart Home Lightning options are present in departmentPlugs and Outlets
+2022-12-08 17:07:47,778 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:07:47,878 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 17:07:47,916 - logger_File -INFO - user is on Sports section
+2022-12-08 17:07:48,023 - logger_File -INFO - Athletic Clothing options are present in departmentExercise & Fitness
+2022-12-08 17:07:50,975 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:07:51,051 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 17:07:51,098 - logger_File -INFO - user is on Automotive section
+2022-12-08 17:07:51,192 - logger_File -INFO - MotorCycle & Powersports options are present in departmentAutomative Parts & Accessories
+2022-12-08 17:08:19,983 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:08:20,096 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 17:08:20,289 - logger_File -INFO - user entered emailcapstoneanisa@test.comand passwordLove90123$
+2022-12-08 17:08:20,370 - logger_File -INFO - user clicked on login button
+2022-12-08 17:08:20,641 - logger_File -INFO - User could login successfully
+2022-12-08 17:08:20,720 - logger_File -INFO - All Department changed toSmart Home
+2022-12-08 17:08:20,816 - logger_File -INFO - user entred kasa outdoor smart plug
+2022-12-08 17:08:20,872 - logger_File -INFO - user clicked on search button
+2022-12-08 17:08:21,065 - logger_File -INFO - user clicked on item
+2022-12-08 17:08:21,246 - logger_File -INFO - user selected quantity '2' 
+2022-12-08 17:08:21,298 - logger_File -INFO - user clicked on Add To Cart
+2022-12-08 17:08:21,318 - logger_File -INFO - cart icone changed to '2' 
+2022-12-08 17:08:47,966 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:08:48,092 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 17:08:48,291 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 17:08:48,351 - logger_File -INFO - user clicked on login button
+2022-12-08 17:08:48,641 - logger_File -INFO - user logged in ito account
+2022-12-08 17:08:48,713 - logger_File -INFO - All Department changed toSmart Home
+2022-12-08 17:08:48,810 - logger_File -INFO - user entred kasa outdoor smart plug
+2022-12-08 17:08:48,866 - logger_File -INFO - user clicked on search button
+2022-12-08 17:08:49,055 - logger_File -INFO - user clicked on item
+2022-12-08 17:08:49,234 - logger_File -INFO - user selected quantity '2' 
+2022-12-08 17:08:49,289 - logger_File -INFO - user clicked on Add To Cart
+2022-12-08 17:08:49,309 - logger_File -INFO - cart icone changed to '2' 
+2022-12-08 17:08:49,374 - logger_File -INFO - user clicked on Cart Option
+2022-12-08 17:08:49,468 - logger_File -INFO - user clicked on Proceed to Checkout
+2022-12-08 17:08:49,560 - logger_File -INFO - user clicked on Add New Address link
+2022-12-08 17:08:50,119 - logger_File -INFO - User filled the field
+2022-12-08 17:08:50,207 - logger_File -INFO - user clicked Add Your Address Button
+2022-12-08 17:08:50,231 - logger_File -INFO - user clicked Add a credit card information
+2022-12-08 17:10:37,513 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:10:37,628 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 17:10:37,831 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 17:10:37,895 - logger_File -INFO - user clicked on login button
+2022-12-08 17:10:38,192 - logger_File -INFO - user logged in ito account
+2022-12-08 17:10:38,265 - logger_File -INFO - All Department changed toSmart Home
+2022-12-08 17:10:38,351 - logger_File -INFO - user entred kasa outdoor smart plug
+2022-12-08 17:10:38,407 - logger_File -INFO - user clicked on search button
+2022-12-08 17:10:38,588 - logger_File -INFO - user clicked on item
+2022-12-08 17:10:38,778 - logger_File -INFO - user selected quantity '2' 
+2022-12-08 17:10:38,840 - logger_File -INFO - user clicked on Add To Cart
+2022-12-08 17:10:38,862 - logger_File -INFO - cart icone changed to '2' 
+2022-12-08 17:10:38,928 - logger_File -INFO - user clicked on Cart Option
+2022-12-08 17:10:39,043 - logger_File -INFO - user clicked on Proceed to Checkout
+2022-12-08 17:10:39,136 - logger_File -INFO - user clicked on Add New Address link
+2022-12-08 17:10:39,720 - logger_File -INFO - User filled the field
+2022-12-08 17:10:39,792 - logger_File -INFO - user clicked Add Your Address Button
+2022-12-08 17:10:39,817 - logger_File -INFO - user clicked Add a credit card information
+2022-12-08 17:10:40,221 - logger_File -INFO - user clicked on Add Your card button
+2022-12-08 17:10:40,825 - logger_File -INFO - user clicked on Place Your Order
+2022-12-08 17:10:41,090 - logger_File -INFO - A message popped up on the top of the screen
+2022-12-08 17:10:55,425 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:10:55,534 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 17:10:55,725 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 17:10:55,789 - logger_File -INFO - user clicked on login button
+2022-12-08 17:10:56,372 - logger_File -INFO - user logged in ito account
+2022-12-08 17:10:56,452 - logger_File -INFO - All Department changed toSmart Home
+2022-12-08 17:10:56,547 - logger_File -INFO - user entred kasa outdoor smart plug
+2022-12-08 17:10:56,604 - logger_File -INFO - user clicked on search button
+2022-12-08 17:10:56,868 - logger_File -INFO - user clicked on item
+2022-12-08 17:10:57,052 - logger_File -INFO - user selected quantity '2' 
+2022-12-08 17:10:57,108 - logger_File -INFO - user clicked on Add To Cart
+2022-12-08 17:10:57,129 - logger_File -INFO - cart icone changed to '2' 
+2022-12-08 17:10:57,194 - logger_File -INFO - user clicked on Cart Option
+2022-12-08 17:10:57,282 - logger_File -INFO - user clicked on Proceed to Checkout
+2022-12-08 17:10:57,368 - logger_File -INFO - user clicked on Add New Address link
+2022-12-08 17:10:57,988 - logger_File -INFO - User filled the field
+2022-12-08 17:10:58,068 - logger_File -INFO - user clicked Add Your Address Button
+2022-12-08 17:10:58,092 - logger_File -INFO - user clicked Add a credit card information
+2022-12-08 17:10:58,478 - logger_File -INFO - user clicked on Add Your card button
+2022-12-08 17:11:18,077 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:11:18,202 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 17:11:18,406 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 17:11:18,466 - logger_File -INFO - user clicked on login button
+2022-12-08 17:11:18,773 - logger_File -INFO - user logged in ito account
+2022-12-08 17:11:18,855 - logger_File -INFO - All Department changed toSmart Home
+2022-12-08 17:11:18,940 - logger_File -INFO - user entred kasa outdoor smart plug
+2022-12-08 17:11:19,007 - logger_File -INFO - user clicked on search button
+2022-12-08 17:11:19,195 - logger_File -INFO - user clicked on item
+2022-12-08 17:11:19,383 - logger_File -INFO - user selected quantity '2' 
+2022-12-08 17:11:19,437 - logger_File -INFO - user clicked on Add To Cart
+2022-12-08 17:11:19,456 - logger_File -INFO - cart icone changed to '2' 
+2022-12-08 17:11:19,526 - logger_File -INFO - user clicked on Cart Option
+2022-12-08 17:11:19,608 - logger_File -INFO - user clicked on Proceed to Checkout
+2022-12-08 17:11:19,683 - logger_File -INFO - user clicked on Add New Address link
+2022-12-08 17:11:20,263 - logger_File -INFO - User filled the field
+2022-12-08 17:11:20,333 - logger_File -INFO - user clicked Add Your Address Button
+2022-12-08 17:11:20,361 - logger_File -INFO - user clicked Add a credit card information
+2022-12-08 17:11:20,738 - logger_File -INFO - user clicked on Add Your card button
+2022-12-08 17:11:20,868 - logger_File -INFO - user clicked on Place Your Order
+2022-12-08 17:11:21,204 - logger_File -INFO - A message popped up on the top of the screen
+2022-12-08 17:11:54,062 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:14:36,040 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:14:36,160 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 17:14:36,350 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 17:14:36,415 - logger_File -INFO - user clicked on login button
+2022-12-08 17:14:36,703 - logger_File -INFO - user logged in ito account
+2022-12-08 17:14:36,784 - logger_File -INFO - All Department changed toElectronics
+2022-12-08 17:14:36,882 - logger_File -INFO - user entred Apex Legends
+2022-12-08 17:14:36,940 - logger_File -INFO - user clicked on search button
+2022-12-08 17:14:37,125 - logger_File -INFO - user clicked on item
+2022-12-08 17:14:37,322 - logger_File -INFO - user selected quantity '5' 
+2022-12-08 17:14:37,380 - logger_File -INFO - user clicked on Add To Cart
+2022-12-08 17:14:37,397 - logger_File -INFO - cart icone changed to '5' 
+2022-12-08 17:14:37,454 - logger_File -INFO - user clicked on Cart Option
+2022-12-08 17:14:38,087 - logger_File -INFO - user clicked on Proceed to Checkout
+2022-12-08 17:14:38,151 - logger_File -INFO - user clicked on Place Your Order
+2022-12-08 17:14:38,487 - logger_File -INFO - A message popped up on the top of the screen
+2022-12-08 17:15:02,093 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:15:02,212 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 17:15:02,407 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 17:15:02,470 - logger_File -INFO - user clicked on login button
+2022-12-08 17:15:02,735 - logger_File -INFO - user logged in ito account
+2022-12-08 17:15:02,808 - logger_File -INFO - All Department changed toSmart Home
+2022-12-08 17:15:02,897 - logger_File -INFO - user entred kasa outdoor smart plug
+2022-12-08 17:15:02,949 - logger_File -INFO - user clicked on search button
+2022-12-08 17:15:03,132 - logger_File -INFO - user clicked on item
+2022-12-08 17:15:03,320 - logger_File -INFO - user selected quantity '2' 
+2022-12-08 17:15:03,375 - logger_File -INFO - user clicked on Add To Cart
+2022-12-08 17:15:03,393 - logger_File -INFO - cart icone changed to '2' 
+2022-12-08 17:15:03,451 - logger_File -INFO - user clicked on Cart Option
+2022-12-08 17:15:03,537 - logger_File -INFO - user clicked on Proceed to Checkout
+2022-12-08 17:15:03,621 - logger_File -INFO - user clicked on Add New Address link
+2022-12-08 17:15:04,201 - logger_File -INFO - User filled the field
+2022-12-08 17:15:04,274 - logger_File -INFO - user clicked Add Your Address Button
+2022-12-08 17:15:04,297 - logger_File -INFO - user clicked Add a credit card information
+2022-12-08 17:15:04,672 - logger_File -INFO - user clicked on Add Your card button
+2022-12-08 17:15:19,615 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:15:19,736 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 17:15:19,941 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 17:15:20,005 - logger_File -INFO - user clicked on login button
+2022-12-08 17:15:20,289 - logger_File -INFO - user logged in ito account
+2022-12-08 17:15:20,361 - logger_File -INFO - All Department changed toSmart Home
+2022-12-08 17:15:20,452 - logger_File -INFO - user entred kasa outdoor smart plug
+2022-12-08 17:15:20,509 - logger_File -INFO - user clicked on search button
+2022-12-08 17:15:20,704 - logger_File -INFO - user clicked on item
+2022-12-08 17:15:20,947 - logger_File -INFO - user selected quantity '2' 
+2022-12-08 17:15:21,000 - logger_File -INFO - user clicked on Add To Cart
+2022-12-08 17:15:21,020 - logger_File -INFO - cart icone changed to '2' 
+2022-12-08 17:15:21,087 - logger_File -INFO - user clicked on Cart Option
+2022-12-08 17:15:21,167 - logger_File -INFO - user clicked on Proceed to Checkout
+2022-12-08 17:15:21,250 - logger_File -INFO - user clicked on Add New Address link
+2022-12-08 17:15:21,798 - logger_File -INFO - User filled the field
+2022-12-08 17:15:21,869 - logger_File -INFO - user clicked Add Your Address Button
+2022-12-08 17:15:21,893 - logger_File -INFO - user clicked Add a credit card information
+2022-12-08 17:15:22,275 - logger_File -INFO - user clicked on Add Your card button
+2022-12-08 17:15:22,470 - logger_File -INFO - user clicked on Place Your Order
+2022-12-08 17:15:22,804 - logger_File -INFO - A message popped up on the top of the screen
+2022-12-08 17:15:49,142 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:15:49,261 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 17:15:49,444 - logger_File -INFO - user entered emailcapstoneanisa@test.comand passwordLove90123$
+2022-12-08 17:15:49,509 - logger_File -INFO - user clicked on login button
+2022-12-08 17:15:49,805 - logger_File -INFO - User could login successfully
+2022-12-08 17:15:49,876 - logger_File -INFO - All Department changed toSmart Home
+2022-12-08 17:15:49,962 - logger_File -INFO - user entred kasa outdoor smart plug
+2022-12-08 17:15:50,023 - logger_File -INFO - user clicked on search button
+2022-12-08 17:15:50,217 - logger_File -INFO - user clicked on item
+2022-12-08 17:15:50,415 - logger_File -INFO - user selected quantity '2' 
+2022-12-08 17:15:50,472 - logger_File -INFO - user clicked on Add To Cart
+2022-12-08 17:15:50,491 - logger_File -INFO - cart icone changed to '2' 
+2022-12-08 17:16:17,300 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:16:17,400 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 17:16:17,492 - logger_File -INFO - user is on Electronics section
+2022-12-08 17:16:17,598 - logger_File -INFO - Video Games options are present in departmentTV & Video
+2022-12-08 17:16:20,341 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:16:20,427 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 17:16:20,459 - logger_File -INFO - user is on Computers section
+2022-12-08 17:16:20,582 - logger_File -INFO - Accessories options are present in departmentNetworking
+2022-12-08 17:16:23,373 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:16:23,463 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 17:16:23,495 - logger_File -INFO - user is on Smart Home section
+2022-12-08 17:16:23,606 - logger_File -INFO - Smart Home Lightning options are present in departmentPlugs and Outlets
+2022-12-08 17:16:26,339 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:16:26,420 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 17:16:26,449 - logger_File -INFO - user is on Sports section
+2022-12-08 17:16:26,574 - logger_File -INFO - Athletic Clothing options are present in departmentExercise & Fitness
+2022-12-08 17:16:29,342 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:16:29,430 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 17:16:29,460 - logger_File -INFO - user is on Automotive section
+2022-12-08 17:16:29,588 - logger_File -INFO - MotorCycle & Powersports options are present in departmentAutomative Parts & Accessories
+2022-12-08 17:16:52,757 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:16:52,874 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 17:16:52,909 - logger_File -INFO - options Electronics, Computers, Smart Home, Sports and Automative are present
+2022-12-08 17:17:23,617 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:17:23,744 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 17:17:23,941 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 17:17:24,003 - logger_File -INFO - user clicked on login button
+2022-12-08 17:17:24,269 - logger_File -INFO - user logged in ito account
+2022-12-08 17:17:24,344 - logger_File -INFO - All Department changed toElectronics
+2022-12-08 17:17:24,420 - logger_File -INFO - user entred Apex Legends
+2022-12-08 17:17:24,480 - logger_File -INFO - user clicked on search button
+2022-12-08 17:17:24,665 - logger_File -INFO - user clicked on item
+2022-12-08 17:17:24,865 - logger_File -INFO - user selected quantity '5' 
+2022-12-08 17:17:24,922 - logger_File -INFO - user clicked on Add To Cart
+2022-12-08 17:17:24,940 - logger_File -INFO - cart icone changed to '5' 
+2022-12-08 17:17:25,002 - logger_File -INFO - user clicked on Cart Option
+2022-12-08 17:17:25,096 - logger_File -INFO - user clicked on Proceed to Checkout
+2022-12-08 17:17:25,164 - logger_File -INFO - user clicked on Place Your Order
+2022-12-08 17:17:25,499 - logger_File -INFO - A message popped up on the top of the screen
+2022-12-08 17:54:50,030 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:57:13,045 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:58:55,800 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:59:53,380 - logger_File -INFO - React App is equal to React App
+2022-12-08 17:59:53,521 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 17:59:53,740 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 17:59:53,809 - logger_File -INFO - user clicked on login button
+2022-12-08 17:59:54,131 - logger_File -INFO - user logged in ito account
+2022-12-08 18:00:28,194 - logger_File -INFO - React App is equal to React App
+2022-12-08 18:00:28,339 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 18:00:28,414 - logger_File -INFO - user clicked on Create New Account button
+2022-12-08 18:00:28,772 - logger_File -INFO - user entered required information into sign up form
+2022-12-08 18:00:28,839 - logger_File -INFO - user clicked on Sign up Button
+2022-12-08 18:00:29,116 - logger_File -INFO - user logged in
+2022-12-08 18:01:17,312 - logger_File -INFO - React App is equal to React App
+2022-12-08 18:01:17,427 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 18:01:17,463 - logger_File -INFO - options Electronics, Computers, Smart Home, Sports and Automative are present
+2022-12-08 18:01:39,094 - logger_File -INFO - React App is equal to React App
+2022-12-08 18:01:39,216 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 18:01:39,289 - logger_File -INFO - user is on Electronics section
+2022-12-08 18:01:39,579 - logger_File -INFO - Video Games options are present in departmentTV & Video
+2022-12-08 18:01:42,841 - logger_File -INFO - React App is equal to React App
+2022-12-08 18:01:42,924 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 18:01:42,976 - logger_File -INFO - user is on Computers section
+2022-12-08 18:01:43,169 - logger_File -INFO - Accessories options are present in departmentNetworking
+2022-12-08 18:01:46,083 - logger_File -INFO - React App is equal to React App
+2022-12-08 18:01:46,198 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 18:01:46,238 - logger_File -INFO - user is on Smart Home section
+2022-12-08 18:01:46,415 - logger_File -INFO - Smart Home Lightning options are present in departmentPlugs and Outlets
+2022-12-08 18:01:49,292 - logger_File -INFO - React App is equal to React App
+2022-12-08 18:01:49,370 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 18:01:49,458 - logger_File -INFO - user is on Sports section
+2022-12-08 18:01:49,566 - logger_File -INFO - Athletic Clothing options are present in departmentExercise & Fitness
+2022-12-08 18:01:52,348 - logger_File -INFO - React App is equal to React App
+2022-12-08 18:01:52,444 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 18:01:52,473 - logger_File -INFO - user is on Automotive section
+2022-12-08 18:01:52,624 - logger_File -INFO - MotorCycle & Powersports options are present in departmentAutomative Parts & Accessories
+2022-12-08 18:02:17,249 - logger_File -INFO - React App is equal to React App
+2022-12-08 18:02:17,346 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 18:02:17,528 - logger_File -INFO - user entered emailcapstoneanisa@test.comand passwordLove90123$
+2022-12-08 18:02:17,593 - logger_File -INFO - user clicked on login button
+2022-12-08 18:02:18,060 - logger_File -INFO - User could login successfully
+2022-12-08 18:02:18,130 - logger_File -INFO - All Department changed toSmart Home
+2022-12-08 18:02:18,226 - logger_File -INFO - user entred kasa outdoor smart plug
+2022-12-08 18:02:18,319 - logger_File -INFO - user clicked on search button
+2022-12-08 18:02:18,718 - logger_File -INFO - user clicked on item
+2022-12-08 18:02:18,916 - logger_File -INFO - user selected quantity '2' 
+2022-12-08 18:02:18,979 - logger_File -INFO - user clicked on Add To Cart
+2022-12-08 18:02:18,999 - logger_File -INFO - cart icone changed to '2' 
+2022-12-08 18:02:42,965 - logger_File -INFO - React App is equal to React App
+2022-12-08 18:02:43,152 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 18:02:43,526 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 18:02:43,644 - logger_File -INFO - user clicked on login button
+2022-12-08 18:02:43,921 - logger_File -INFO - user logged in ito account
+2022-12-08 18:02:44,020 - logger_File -INFO - All Department changed toSmart Home
+2022-12-08 18:02:44,131 - logger_File -INFO - user entred kasa outdoor smart plug
+2022-12-08 18:02:44,220 - logger_File -INFO - user clicked on search button
+2022-12-08 18:02:44,462 - logger_File -INFO - user clicked on item
+2022-12-08 18:02:44,691 - logger_File -INFO - user selected quantity '2' 
+2022-12-08 18:02:44,801 - logger_File -INFO - user clicked on Add To Cart
+2022-12-08 18:02:44,851 - logger_File -INFO - cart icone changed to '2' 
+2022-12-08 18:02:44,962 - logger_File -INFO - user clicked on Cart Option
+2022-12-08 18:02:45,084 - logger_File -INFO - user clicked on Proceed to Checkout
+2022-12-08 18:02:45,207 - logger_File -INFO - user clicked on Add New Address link
+2022-12-08 18:02:46,097 - logger_File -INFO - User filled the field
+2022-12-08 18:02:46,235 - logger_File -INFO - user clicked Add Your Address Button
+2022-12-08 18:02:46,268 - logger_File -INFO - user clicked Add a credit card information
+2022-12-08 18:02:46,927 - logger_File -INFO - user clicked on Add Your card button
+2022-12-08 18:03:12,201 - logger_File -INFO - React App is equal to React App
+2022-12-08 18:03:12,380 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 18:03:12,762 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 18:03:12,863 - logger_File -INFO - user clicked on login button
+2022-12-08 18:03:13,153 - logger_File -INFO - user logged in ito account
+2022-12-08 18:03:13,257 - logger_File -INFO - All Department changed toSmart Home
+2022-12-08 18:03:13,376 - logger_File -INFO - user entred kasa outdoor smart plug
+2022-12-08 18:03:13,458 - logger_File -INFO - user clicked on search button
+2022-12-08 18:03:13,657 - logger_File -INFO - user clicked on item
+2022-12-08 18:03:13,854 - logger_File -INFO - user selected quantity '2' 
+2022-12-08 18:03:13,942 - logger_File -INFO - user clicked on Add To Cart
+2022-12-08 18:03:13,969 - logger_File -INFO - cart icone changed to '2' 
+2022-12-08 18:03:14,093 - logger_File -INFO - user clicked on Cart Option
+2022-12-08 18:03:14,310 - logger_File -INFO - user clicked on Proceed to Checkout
+2022-12-08 18:03:14,436 - logger_File -INFO - user clicked on Add New Address link
+2022-12-08 18:03:15,283 - logger_File -INFO - User filled the field
+2022-12-08 18:03:15,390 - logger_File -INFO - user clicked Add Your Address Button
+2022-12-08 18:03:15,426 - logger_File -INFO - user clicked Add a credit card information
+2022-12-08 18:03:16,026 - logger_File -INFO - user clicked on Add Your card button
+2022-12-08 18:03:16,188 - logger_File -INFO - user clicked on Place Your Order
+2022-12-08 18:03:16,461 - logger_File -INFO - A message popped up on the top of the screen
+2022-12-08 18:03:53,460 - logger_File -INFO - React App is equal to React App
+2022-12-08 18:03:53,631 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 18:03:54,098 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 18:03:54,229 - logger_File -INFO - user clicked on login button
+2022-12-08 18:03:54,553 - logger_File -INFO - user logged in ito account
+2022-12-08 18:03:54,667 - logger_File -INFO - All Department changed toElectronics
+2022-12-08 18:03:54,777 - logger_File -INFO - user entred Apex Legends
+2022-12-08 18:03:54,869 - logger_File -INFO - user clicked on search button
+2022-12-08 18:03:55,090 - logger_File -INFO - user clicked on item
+2022-12-08 18:03:55,301 - logger_File -INFO - user selected quantity '5' 
+2022-12-08 18:03:55,394 - logger_File -INFO - user clicked on Add To Cart
+2022-12-08 18:03:55,422 - logger_File -INFO - cart icone changed to '5' 
+2022-12-08 18:03:55,555 - logger_File -INFO - user clicked on Cart Option
+2022-12-08 18:03:55,679 - logger_File -INFO - user clicked on Proceed to Checkout
+2022-12-08 18:03:55,783 - logger_File -INFO - user clicked on Place Your Order
+2022-12-08 18:03:56,061 - logger_File -INFO - A message popped up on the top of the screen
+2022-12-08 20:11:38,931 - logger_File -INFO - React App is equal to React App
+2022-12-08 20:11:39,061 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 20:11:39,301 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 20:11:39,367 - logger_File -INFO - user clicked on login button
+2022-12-08 20:11:39,662 - logger_File -INFO - user logged in ito account
+2022-12-08 20:11:39,791 - logger_File -INFO - user successfylly clicked on Account option
+2022-12-08 20:11:42,891 - logger_File -INFO - user clicked on Add Payment
+2022-12-08 20:11:43,381 - logger_File -INFO - user clicked on add card btn
+2022-12-08 20:11:46,413 - logger_File -INFO - Payment Method added successfully
+2022-12-08 20:12:16,720 - logger_File -INFO - React App is equal to React App
+2022-12-08 20:12:16,905 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 20:12:17,180 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 20:12:17,263 - logger_File -INFO - user clicked on login button
+2022-12-08 20:12:17,576 - logger_File -INFO - user logged in ito account
+2022-12-08 20:12:17,700 - logger_File -INFO - user successfylly clicked on Account option
+2022-12-08 20:12:20,790 - logger_File -INFO - User clicked on payment card
+2022-12-08 20:12:23,867 - logger_File -INFO - user clicked on Edit
+2022-12-08 20:12:24,389 - logger_File -INFO - user successfully entred the info
+2022-12-08 20:12:27,461 - logger_File -INFO - user clicked on updateBttn
+2022-12-08 20:12:30,496 - logger_File -INFO - Payment Method added successfully
+2022-12-08 20:13:16,409 - logger_File -INFO - React App is equal to React App
+2022-12-08 20:13:16,549 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 20:13:16,763 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 20:13:16,835 - logger_File -INFO - user clicked on login button
+2022-12-08 20:13:17,141 - logger_File -INFO - user logged in ito account
+2022-12-08 20:13:17,260 - logger_File -INFO - user successfylly clicked on Account option
+2022-12-08 20:13:20,359 - logger_File -INFO - User clicked on payment card
+2022-12-08 20:13:23,443 - logger_File -INFO - user clicked on Edit
+2022-12-08 20:13:24,110 - logger_File -INFO - user successfully entred the info
+2022-12-08 20:13:27,226 - logger_File -INFO - user clicked on updateBttn
+2022-12-08 20:13:30,261 - logger_File -INFO - Payment Method added successfully
+2022-12-08 20:14:06,051 - logger_File -INFO - React App is equal to React App
+2022-12-08 20:14:06,192 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 20:14:06,397 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 20:14:06,458 - logger_File -INFO - user clicked on login button
+2022-12-08 20:14:06,781 - logger_File -INFO - user logged in ito account
+2022-12-08 20:14:06,907 - logger_File -INFO - user successfylly clicked on Account option
+2022-12-08 20:14:09,992 - logger_File -INFO - User clicked on payment card
+2022-12-08 20:14:13,081 - logger_File -INFO - User clicked on remove option
+2022-12-08 20:14:16,097 - logger_File -INFO - Details removed successfully
+2022-12-08 20:14:44,195 - logger_File -INFO - React App is equal to React App
+2022-12-08 20:14:44,318 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 20:14:44,521 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 20:14:44,585 - logger_File -INFO - user clicked on login button
+2022-12-08 20:14:45,007 - logger_File -INFO - user logged in ito account
+2022-12-08 20:14:45,129 - logger_File -INFO - user successfylly clicked on Account option
+2022-12-08 20:14:48,237 - logger_File -INFO - userClickedInAddAddressOption
+2022-12-08 20:14:48,968 - logger_File -INFO - User filled the field
+2022-12-08 20:14:52,093 - logger_File -INFO - User successfully clicked on Add Your Address button
+2022-12-08 20:14:55,132 - logger_File -INFO - Address Added Successfully
+2022-12-08 20:15:22,986 - logger_File -INFO - React App is equal to React App
+2022-12-08 20:15:23,115 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 20:15:23,335 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 20:15:23,408 - logger_File -INFO - user clicked on login button
+2022-12-08 20:15:23,726 - logger_File -INFO - user logged in ito account
+2022-12-08 20:15:23,848 - logger_File -INFO - user successfylly clicked on Account option
+2022-12-08 20:15:26,953 - logger_File -INFO - user clicked on Edit button
+2022-12-08 20:15:27,889 - logger_File -INFO - User filled the field
+2022-12-08 20:15:30,993 - logger_File -INFO - User clicked on Update Your Address
+2022-12-08 20:15:34,026 - logger_File -INFO - Your New Address Updated
+2022-12-08 20:15:59,578 - logger_File -INFO - React App is equal to React App
+2022-12-08 20:15:59,694 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 20:15:59,904 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 20:15:59,967 - logger_File -INFO - user clicked on login button
+2022-12-08 20:16:00,230 - logger_File -INFO - user logged in ito account
+2022-12-08 20:16:00,337 - logger_File -INFO - user successfylly clicked on Account option
+2022-12-08 20:16:03,423 - logger_File -INFO - User clicked on remove button
+2022-12-08 20:16:03,424 - logger_File -INFO - User removed the address
+2022-12-08 20:16:39,391 - logger_File -INFO - React App is equal to React App
+2022-12-08 20:16:39,516 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 20:16:39,723 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 20:16:39,791 - logger_File -INFO - user clicked on login button
+2022-12-08 20:16:40,093 - logger_File -INFO - user logged in ito account
+2022-12-08 20:16:40,204 - logger_File -INFO - user successfylly clicked on Account option
+2022-12-08 20:16:43,262 - logger_File -INFO - user successfylly clicked on Account option
+2022-12-08 20:16:46,561 - logger_File -INFO - user entered name and phone successfully
+2022-12-08 20:16:46,645 - logger_File -INFO - user clicked on update button
+2022-12-08 20:16:52,716 - logger_File -INFO - user profile updated successfully
+2022-12-08 20:17:37,197 - logger_File -INFO - React App is equal to React App
+2022-12-08 20:17:37,310 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 20:17:37,525 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 20:17:37,589 - logger_File -INFO - user clicked on login button
+2022-12-08 20:17:37,866 - logger_File -INFO - user logged in ito account
+2022-12-08 20:17:37,962 - logger_File -INFO - User clicked on Order Section
+2022-12-08 20:17:38,193 - logger_File -INFO - User clicked on first order from the list
+2022-12-08 20:17:38,291 - logger_File -INFO - User clicked on Cancel The Order Button
+2022-12-08 20:17:38,357 - logger_File -INFO - User picked 'Bought Wrong Item' from list
+2022-12-08 20:17:38,419 - logger_File -INFO - User clicked on 'Cancel Order Button
+2022-12-08 20:17:38,570 - logger_File -INFO - A message displayed as 'Your Order Has Been Cancelled'
+2022-12-08 20:20:20,267 - logger_File -INFO - React App is equal to React App
+2022-12-08 20:20:20,390 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 20:20:20,596 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 20:20:20,667 - logger_File -INFO - user clicked on login button
+2022-12-08 20:20:20,970 - logger_File -INFO - user logged in ito account
+2022-12-08 20:20:21,070 - logger_File -INFO - User clicked on Order Section
+2022-12-08 20:20:21,247 - logger_File -INFO - User clicked on first order from the list
+2022-12-08 20:20:21,328 - logger_File -INFO - User clicked on Return Items Button
+2022-12-08 20:20:21,401 - logger_File -INFO - User Select Reason Item Damaged
+2022-12-08 20:20:21,459 - logger_File -INFO - User select the drop off as Fedex
+2022-12-08 20:20:21,529 - logger_File -INFO - User click on Return Order button
+2022-12-08 20:20:21,737 - logger_File -INFO - A cancelation message popped up on the top of the page
+2022-12-08 20:20:46,761 - logger_File -INFO - React App is equal to React App
+2022-12-08 20:20:46,875 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 20:20:47,094 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 20:20:47,154 - logger_File -INFO - user clicked on login button
+2022-12-08 20:20:47,485 - logger_File -INFO - user logged in ito account
+2022-12-08 20:20:47,576 - logger_File -INFO - User clicked on Order Section
+2022-12-08 20:20:47,735 - logger_File -INFO - User clicked on first order from the list
+2022-12-08 20:20:47,816 - logger_File -INFO - User click on Review Button
+2022-12-08 20:20:47,994 - logger_File -INFO - User write review on headline and review text
+2022-12-08 20:20:48,074 - logger_File -INFO - User click add review button
+2022-12-08 20:20:51,106 - logger_File -INFO - A message diplayed Your Review Was Added Successfully
+2022-12-08 20:52:32,979 - logger_File -INFO - React App is equal to React App
+2022-12-08 20:52:33,131 - logger_File -INFO - user clicked on Sign In option
+2022-12-08 20:52:33,330 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 20:52:33,426 - logger_File -INFO - user clicked on login button
+2022-12-08 20:52:33,732 - logger_File -INFO - user logged in ito account
+2022-12-08 20:53:37,914 - logger_File -INFO - React App is equal to React App
+2022-12-08 20:53:38,057 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 20:53:38,309 - logger_File -INFO - user entered email capstoneanisa@test.comand password Love90123$
+2022-12-08 20:53:38,408 - logger_File -INFO - user clicked on login button
+2022-12-08 20:53:38,717 - logger_File -INFO - user logged in ito account
+2022-12-08 20:53:38,867 - logger_File -INFO - user successfylly clicked on Account option
+2022-12-08 20:53:41,970 - logger_File -INFO - userClickedInAddAddressOption
+2022-12-08 20:53:42,669 - logger_File -INFO - User filled the field
+2022-12-08 20:53:45,798 - logger_File -INFO - User successfully clicked on Add Your Address button
+2022-12-08 20:53:48,835 - logger_File -INFO - Address Added Successfully
+2022-12-08 20:55:21,156 - logger_File -INFO - React App is equal to React App
+2022-12-08 20:55:21,259 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 20:55:21,360 - logger_File -INFO - user is on Electronics section
+2022-12-08 20:55:21,482 - logger_File -INFO - Video Games options are present in departmentTV & Video
+2022-12-08 20:55:24,343 - logger_File -INFO - React App is equal to React App
+2022-12-08 20:55:24,488 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 20:55:24,533 - logger_File -INFO - user is on Computers section
+2022-12-08 20:55:24,841 - logger_File -INFO - Accessories options are present in departmentNetworking
+2022-12-08 20:55:28,243 - logger_File -INFO - React App is equal to React App
+2022-12-08 20:55:28,353 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 20:55:28,405 - logger_File -INFO - user is on Smart Home section
+2022-12-08 20:55:28,652 - logger_File -INFO - Smart Home Lightning options are present in departmentPlugs and Outlets
+2022-12-08 20:55:31,795 - logger_File -INFO - React App is equal to React App
+2022-12-08 20:55:31,930 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 20:55:31,970 - logger_File -INFO - user is on Sports section
+2022-12-08 20:55:32,245 - logger_File -INFO - Athletic Clothing options are present in departmentExercise & Fitness
+2022-12-08 20:55:35,623 - logger_File -INFO - React App is equal to React App
+2022-12-08 20:55:35,745 - logger_File -INFO - User clicked on All Section successfully
+2022-12-08 20:55:35,786 - logger_File -INFO - user is on Automotive section
+2022-12-08 20:55:36,035 - logger_File -INFO - MotorCycle & Powersports options are present in departmentAutomative Parts & Accessories
+2022-12-08 20:57:26,887 - logger_File -INFO - React App is equal to React App
+2022-12-08 20:57:27,017 - logger_File -INFO - user clicked on sign in option succefully
+2022-12-08 20:57:27,217 - logger_File -INFO - user entered emailcapstoneanisa@test.comand passwordLove90123$
+2022-12-08 20:57:27,293 - logger_File -INFO - user clicked on login button
+2022-12-08 20:57:27,623 - logger_File -INFO - User could login successfully
+2022-12-08 20:57:27,725 - logger_File -INFO - All Department changed toSmart Home
+2022-12-08 20:57:27,821 - logger_File -INFO - user entred kasa outdoor smart plug
+2022-12-08 20:57:27,903 - logger_File -INFO - user clicked on search button
+2022-12-08 20:57:28,108 - logger_File -INFO - user clicked on item
+2022-12-08 20:57:28,294 - logger_File -INFO - user selected quantity '2' 
+2022-12-08 20:57:28,357 - logger_File -INFO - user clicked on Add To Cart
+2022-12-08 20:57:28,377 - logger_File -INFO - cart icone changed to '2' 
+2023-05-02 19:02:04,833 - logger_File -INFO - React App is equal to React App
+2023-05-02 19:02:05,478 - logger_File -INFO - user clicked on Sign In option
+2023-05-02 19:02:05,623 - logger_File -INFO - user clicked on Create New Account button
+2023-05-02 19:02:06,336 - logger_File -INFO - user entered required information into sign up form
+2023-05-02 19:02:06,439 - logger_File -INFO - user clicked on Sign up Button
+2023-05-02 19:07:04,383 - logger_File -INFO - React App is equal to React App
+2023-05-02 19:07:05,038 - logger_File -INFO - user clicked on Sign In option
+2023-05-02 19:07:05,172 - logger_File -INFO - user clicked on Create New Account button
+2023-05-02 19:07:05,801 - logger_File -INFO - user entered required information into sign up form
+2023-05-02 19:07:05,937 - logger_File -INFO - user clicked on Sign up Button
+2023-05-02 19:07:43,871 - logger_File -INFO - React App is equal to React App
+2023-05-02 19:07:44,459 - logger_File -INFO - user clicked on Sign In option
+2023-05-02 19:07:44,591 - logger_File -INFO - user clicked on Create New Account button
+2023-05-02 19:07:45,220 - logger_File -INFO - user entered required information into sign up form
+2023-05-02 19:07:45,327 - logger_File -INFO - user clicked on Sign up Button
+2023-05-02 19:07:45,663 - logger_File -INFO - user logged in
+2023-05-02 19:17:11,163 - logger_File -INFO - React App is equal to React App
+2023-05-02 19:17:11,506 - logger_File -INFO - user clicked on Sign In option
+2023-05-02 19:17:11,661 - logger_File -INFO - user clicked on Create New Account button
+2023-05-02 19:17:12,313 - logger_File -INFO - user entered required information into sign up form
+2023-05-02 19:17:12,421 - logger_File -INFO - user clicked on Sign up Button
+2023-05-02 19:17:13,238 - logger_File -INFO - user logged in
+2023-05-02 20:38:42,685 - logger_File -INFO - React App is equal to React App
+2023-05-02 20:38:43,239 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-02 20:38:43,666 - logger_File -INFO - user entered email arashpjr@gmail.comand password Adell@123
+2023-05-02 20:38:43,766 - logger_File -INFO - user clicked on login button
+2023-05-02 20:38:44,038 - logger_File -INFO - user logged in ito account
+2023-05-02 20:38:44,235 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-02 20:38:47,364 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-02 20:38:50,957 - logger_File -INFO - user entered name and phone successfully
+2023-05-02 20:38:51,081 - logger_File -INFO - user clicked on update button
+2023-05-02 20:38:57,119 - logger_File -INFO - user profile updated successfully
+2023-05-02 20:39:00,966 - logger_File -INFO - React App is equal to React App
+2023-05-02 20:39:01,167 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-02 20:39:01,681 - logger_File -INFO - user entered email arashpjr@gmail.comand password Adell@123
+2023-05-02 20:39:01,800 - logger_File -INFO - user clicked on login button
+2023-05-02 20:39:02,258 - logger_File -INFO - user logged in ito account
+2023-05-02 20:39:02,494 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-02 20:39:06,007 - logger_File -INFO - user entred below info
+2023-05-02 20:39:09,114 - logger_File -INFO - user clicked on Change Password Button
+2023-05-02 20:39:35,686 - logger_File -INFO - React App is equal to React App
+2023-05-02 20:39:35,850 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-02 20:39:36,280 - logger_File -INFO - user entered email arashpjr@gmail.comand password Adell@123
+2023-05-02 20:39:36,391 - logger_File -INFO - user clicked on login button
+2023-05-02 20:39:36,819 - logger_File -INFO - user logged in ito account
+2023-05-02 20:39:37,086 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-02 20:39:40,231 - logger_File -INFO - user clicked on Add Payment
+2023-05-02 20:39:41,238 - logger_File -INFO - user clicked on add card btn
+2023-05-02 20:39:44,281 - logger_File -INFO - Payment Method added successfully
+2023-05-02 20:39:49,244 - logger_File -INFO - React App is equal to React App
+2023-05-02 20:39:49,422 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-02 20:39:49,816 - logger_File -INFO - user entered email arashpjr@gmail.comand password Adell@123
+2023-05-02 20:39:49,921 - logger_File -INFO - user clicked on login button
+2023-05-02 20:39:50,284 - logger_File -INFO - user logged in ito account
+2023-05-02 20:39:50,559 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-02 20:39:53,696 - logger_File -INFO - User clicked on payment card
+2023-05-02 20:39:56,818 - logger_File -INFO - user clicked on Edit
+2023-05-02 20:39:57,871 - logger_File -INFO - user successfully entred the info
+2023-05-02 20:40:01,000 - logger_File -INFO - user clicked on updateBttn
+2023-05-02 20:40:04,042 - logger_File -INFO - Payment Method added successfully
+2023-05-02 20:40:08,350 - logger_File -INFO - React App is equal to React App
+2023-05-02 20:40:08,471 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-02 20:40:08,871 - logger_File -INFO - user entered email arashpjr@gmail.comand password Adell@123
+2023-05-02 20:40:08,962 - logger_File -INFO - user clicked on login button
+2023-05-02 20:40:09,687 - logger_File -INFO - user logged in ito account
+2023-05-02 20:40:09,877 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-02 20:40:13,037 - logger_File -INFO - User clicked on payment card
+2023-05-02 20:40:16,141 - logger_File -INFO - User clicked on remove option
+2023-05-02 20:40:19,150 - logger_File -INFO - Details removed successfully
+2023-05-02 20:40:22,634 - logger_File -INFO - React App is equal to React App
+2023-05-02 20:40:22,869 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-02 20:40:23,350 - logger_File -INFO - user entered email arashpjr@gmail.comand password Adell@123
+2023-05-02 20:40:23,445 - logger_File -INFO - user clicked on login button
+2023-05-02 20:40:23,896 - logger_File -INFO - user logged in ito account
+2023-05-02 20:40:24,094 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-02 20:40:27,279 - logger_File -INFO - userClickedInAddAddressOption
+2023-05-02 20:40:52,218 - logger_File -INFO - React App is equal to React App
+2023-05-02 20:40:52,373 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-02 20:40:52,739 - logger_File -INFO - user entered email arashpjr@gmail.comand password Adell@123
+2023-05-02 20:40:52,869 - logger_File -INFO - user clicked on login button
+2023-05-02 20:40:53,541 - logger_File -INFO - user logged in ito account
+2023-05-02 20:40:53,923 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-02 20:41:41,123 - logger_File -INFO - React App is equal to React App
+2023-05-02 20:41:41,301 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-02 20:41:41,739 - logger_File -INFO - user entered email arashpjr@gmail.comand password Adell@123
+2023-05-02 20:41:41,833 - logger_File -INFO - user clicked on login button
+2023-05-02 20:41:42,435 - logger_File -INFO - user logged in ito account
+2023-05-02 20:41:42,720 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-02 20:48:38,341 - logger_File -INFO - React App is equal to React App
+2023-05-02 20:48:38,559 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-02 20:48:39,023 - logger_File -INFO - user entered email arashpjr@gmail.comand password Adell@123
+2023-05-02 20:48:39,135 - logger_File -INFO - user clicked on login button
+2023-05-02 20:48:39,600 - logger_File -INFO - user logged in ito account
+2023-05-02 20:48:39,839 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-02 20:48:42,960 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-02 20:48:46,547 - logger_File -INFO - user entered name and phone successfully
+2023-05-02 20:49:10,214 - logger_File -INFO - React App is equal to React App
+2023-05-02 20:49:10,384 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-02 20:49:10,834 - logger_File -INFO - user entered email arashpjr@gmail.comand password Adell@123
+2023-05-02 20:49:10,941 - logger_File -INFO - user clicked on login button
+2023-05-02 20:49:11,363 - logger_File -INFO - user logged in ito account
+2023-05-02 20:49:11,580 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-02 20:49:15,117 - logger_File -INFO - user entred below info
+2023-05-02 20:49:18,253 - logger_File -INFO - user clicked on Change Password Button
+2023-05-02 20:49:21,303 - logger_File -INFO - Password Updated Successfully
+2023-05-02 20:49:25,495 - logger_File -INFO - React App is equal to React App
+2023-05-02 20:49:25,629 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-02 20:49:26,018 - logger_File -INFO - user entered email arashpjr@gmail.comand password Adell@123
+2023-05-02 20:49:26,125 - logger_File -INFO - user clicked on login button
+2023-05-02 20:49:50,403 - logger_File -INFO - React App is equal to React App
+2023-05-02 20:49:50,560 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-02 20:49:50,995 - logger_File -INFO - user entered email arashpjr@gmail.comand password Adell@123
+2023-05-02 20:49:51,097 - logger_File -INFO - user clicked on login button
+2023-05-02 20:50:13,312 - logger_File -INFO - React App is equal to React App
+2023-05-02 20:50:13,475 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-02 20:50:13,879 - logger_File -INFO - user entered email arashpjr@gmail.comand password Adell@123
+2023-05-02 20:50:13,970 - logger_File -INFO - user clicked on login button
+2023-05-02 23:09:57,900 - logger_File -INFO - React App is equal to React App
+2023-05-02 23:09:58,510 - logger_File -INFO - user clicked on Sign In option
+2023-05-02 23:09:59,066 - logger_File -INFO - user entered email arashpjr@gmail.comand password Adell@123
+2023-05-02 23:09:59,228 - logger_File -INFO - user clicked on login button
+2023-05-02 23:10:58,480 - logger_File -INFO - React App is equal to React App
+2023-05-02 23:10:58,916 - logger_File -INFO - user clicked on Sign In option
+2023-05-02 23:10:59,362 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-02 23:10:59,504 - logger_File -INFO - user clicked on login button
+2023-05-02 23:10:59,766 - logger_File -INFO - user logged in ito account
+2023-05-02 23:12:37,473 - logger_File -INFO - React App is equal to React App
+2023-05-02 23:12:38,069 - logger_File -INFO - user clicked on Sign In option
+2023-05-02 23:12:38,293 - logger_File -INFO - user clicked on Create New Account button
+2023-05-02 23:12:39,212 - logger_File -INFO - user entered required information into sign up form
+2023-05-02 23:12:39,336 - logger_File -INFO - user clicked on Sign up Button
+2023-05-02 23:12:39,783 - logger_File -INFO - user logged in
+2023-05-02 23:20:01,531 - logger_File -INFO - React App is equal to React App
+2023-05-02 23:20:01,731 - logger_File -INFO - User clicked on All Section successfully
+2023-05-02 23:20:01,874 - logger_File -INFO - options Electronics, Computers, Smart Home, Sports and Automative are present
+2023-05-02 23:23:53,328 - logger_File -INFO - React App is equal to React App
+2023-05-02 23:23:53,905 - logger_File -INFO - User clicked on All Section successfully
+2023-05-02 23:23:54,031 - logger_File -INFO - user is on Electronics section
+2023-05-02 23:23:54,243 - logger_File -INFO - Video Games options are present in departmentTV & Video
+2023-05-02 23:23:59,075 - logger_File -INFO - React App is equal to React App
+2023-05-02 23:23:59,464 - logger_File -INFO - User clicked on All Section successfully
+2023-05-02 23:23:59,591 - logger_File -INFO - user is on Computers section
+2023-05-02 23:23:59,806 - logger_File -INFO - Accessories options are present in departmentNetworking
+2023-05-02 23:24:04,647 - logger_File -INFO - React App is equal to React App
+2023-05-02 23:24:05,151 - logger_File -INFO - User clicked on All Section successfully
+2023-05-02 23:24:05,233 - logger_File -INFO - user is on Smart Home section
+2023-05-02 23:24:05,428 - logger_File -INFO - Smart Home Lightning options are present in departmentPlugs and Outlets
+2023-05-02 23:24:09,758 - logger_File -INFO - React App is equal to React App
+2023-05-02 23:24:09,997 - logger_File -INFO - User clicked on All Section successfully
+2023-05-02 23:24:10,247 - logger_File -INFO - user is on Sports section
+2023-05-02 23:24:10,539 - logger_File -INFO - Athletic Clothing options are present in departmentExercise & Fitness
+2023-05-02 23:24:14,985 - logger_File -INFO - React App is equal to React App
+2023-05-02 23:24:15,497 - logger_File -INFO - User clicked on All Section successfully
+2023-05-02 23:24:15,607 - logger_File -INFO - user is on Automotive section
+2023-05-02 23:24:15,833 - logger_File -INFO - MotorCycle & Powersports options are present in departmentAutomative Parts & Accessories
+2023-05-02 23:29:59,442 - logger_File -INFO - React App is equal to React App
+2023-05-02 23:30:00,091 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-02 23:30:00,684 - logger_File -INFO - user entered emailarash.bakhshi55@gmail.comand passwordAdell@123
+2023-05-02 23:30:00,837 - logger_File -INFO - user clicked on login button
+2023-05-02 23:30:01,142 - logger_File -INFO - User could login successfully
+2023-05-02 23:30:01,316 - logger_File -INFO - All Department changed toSmart Home
+2023-05-02 23:30:01,532 - logger_File -INFO - user entred kasa outdoor smart plug
+2023-05-02 23:30:01,668 - logger_File -INFO - user clicked on search button
+2023-05-02 23:30:01,939 - logger_File -INFO - user clicked on item
+2023-05-02 23:30:02,304 - logger_File -INFO - user selected quantity '2' 
+2023-05-02 23:30:02,534 - logger_File -INFO - user clicked on Add To Cart
+2023-05-02 23:30:02,582 - logger_File -INFO - cart icone changed to '2' 
+2023-05-02 23:37:53,199 - logger_File -INFO - React App is equal to React App
+2023-05-02 23:37:53,678 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-02 23:37:54,149 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-02 23:37:54,289 - logger_File -INFO - user clicked on login button
+2023-05-02 23:37:54,589 - logger_File -INFO - user logged in ito account
+2023-05-02 23:37:54,782 - logger_File -INFO - All Department changed toSmart Home
+2023-05-02 23:37:54,982 - logger_File -INFO - user entred kasa outdoor smart plug
+2023-05-02 23:37:55,114 - logger_File -INFO - user clicked on search button
+2023-05-02 23:37:55,410 - logger_File -INFO - user clicked on item
+2023-05-02 23:37:55,745 - logger_File -INFO - user selected quantity '2' 
+2023-05-02 23:37:55,946 - logger_File -INFO - user clicked on Add To Cart
+2023-05-02 23:37:55,981 - logger_File -INFO - cart icone changed to '2' 
+2023-05-02 23:37:56,132 - logger_File -INFO - user clicked on Cart Option
+2023-05-02 23:37:56,336 - logger_File -INFO - user clicked on Proceed to Checkout
+2023-05-02 23:37:56,591 - logger_File -INFO - user clicked on Add New Address link
+2023-05-02 23:37:57,973 - logger_File -INFO - User filled the field
+2023-05-02 23:37:58,147 - logger_File -INFO - user clicked Add Your Address Button
+2023-05-02 23:37:58,300 - logger_File -INFO - user clicked Add a credit card information
+2023-05-02 23:37:59,688 - logger_File -INFO - user clicked on Add Your card button
+2023-05-02 23:37:59,978 - logger_File -INFO - user clicked on Place Your Order
+2023-05-02 23:38:00,249 - logger_File -INFO - A message popped up on the top of the screen
+2023-05-02 23:41:51,593 - logger_File -INFO - React App is equal to React App
+2023-05-02 23:41:52,189 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-02 23:41:52,703 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-02 23:41:52,843 - logger_File -INFO - user clicked on login button
+2023-05-02 23:41:53,135 - logger_File -INFO - user logged in ito account
+2023-05-02 23:41:53,322 - logger_File -INFO - All Department changed toElectronics
+2023-05-02 23:41:53,485 - logger_File -INFO - user entred Apex Legends
+2023-05-02 23:41:53,617 - logger_File -INFO - user clicked on search button
+2023-05-02 23:41:53,882 - logger_File -INFO - user clicked on item
+2023-05-02 23:41:54,288 - logger_File -INFO - user selected quantity '5' 
+2023-05-02 23:41:54,431 - logger_File -INFO - user clicked on Add To Cart
+2023-05-02 23:41:54,461 - logger_File -INFO - cart icone changed to '5' 
+2023-05-02 23:41:54,695 - logger_File -INFO - user clicked on Cart Option
+2023-05-02 23:41:54,933 - logger_File -INFO - user clicked on Proceed to Checkout
+2023-05-02 23:41:55,154 - logger_File -INFO - user clicked on Place Your Order
+2023-05-02 23:41:55,407 - logger_File -INFO - A message popped up on the top of the screen
+2023-05-02 23:55:58,916 - logger_File -INFO - React App is equal to React App
+2023-05-02 23:55:59,207 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-02 23:55:59,603 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-02 23:55:59,716 - logger_File -INFO - user clicked on login button
+2023-05-02 23:56:00,019 - logger_File -INFO - user logged in ito account
+2023-05-02 23:56:00,296 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-02 23:56:03,395 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-02 23:56:06,902 - logger_File -INFO - user entered name and phone successfully
+2023-05-02 23:56:07,022 - logger_File -INFO - user clicked on update button
+2023-05-02 23:56:13,067 - logger_File -INFO - user profile updated successfully
+2023-05-03 13:50:20,729 - logger_File -INFO - React App is equal to React App
+2023-05-03 13:50:21,248 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-03 13:50:21,679 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-03 13:50:21,775 - logger_File -INFO - user clicked on login button
+2023-05-03 13:50:22,036 - logger_File -INFO - user logged in ito account
+2023-05-03 13:50:22,267 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-03 13:50:25,389 - logger_File -INFO - user clicked on Add Payment
+2023-05-03 13:50:26,330 - logger_File -INFO - user clicked on add card btn
+2023-05-03 13:50:29,376 - logger_File -INFO - Payment Method added successfully
+2023-05-03 16:47:44,274 - logger_File -INFO - React App is equal to React App
+2023-05-03 16:47:44,934 - logger_File -INFO - user clicked on Sign In option
+2023-05-03 16:47:45,648 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-03 16:47:45,822 - logger_File -INFO - user clicked on login button
+2023-05-03 16:47:46,392 - logger_File -INFO - user logged in ito account
+2023-05-03 16:56:52,817 - logger_File -INFO - React App is equal to React App
+2023-05-03 16:56:53,137 - logger_File -INFO - User clicked on All Section successfully
+2023-05-03 16:56:53,247 - logger_File -INFO - options Electronics, Computers, Smart Home, Sports and Automative are present
+2023-05-03 17:03:47,281 - logger_File -INFO - React App is equal to React App
+2023-05-03 17:03:47,563 - logger_File -INFO - User clicked on All Section successfully
+2023-05-03 17:03:47,707 - logger_File -INFO - user is on Electronics section
+2023-05-03 17:03:47,950 - logger_File -INFO - Video Games options are present in departmentTV & Video
+2023-05-03 17:03:54,825 - logger_File -INFO - React App is equal to React App
+2023-05-03 17:03:54,996 - logger_File -INFO - User clicked on All Section successfully
+2023-05-03 17:03:55,717 - logger_File -INFO - user is on Computers section
+2023-05-03 17:03:56,264 - logger_File -INFO - Accessories options are present in departmentNetworking
+2023-05-03 17:04:02,846 - logger_File -INFO - React App is equal to React App
+2023-05-03 17:04:03,142 - logger_File -INFO - User clicked on All Section successfully
+2023-05-03 17:04:03,308 - logger_File -INFO - user is on Smart Home section
+2023-05-03 17:04:03,603 - logger_File -INFO - Smart Home Lightning options are present in departmentPlugs and Outlets
+2023-05-03 17:04:10,174 - logger_File -INFO - React App is equal to React App
+2023-05-03 17:04:10,478 - logger_File -INFO - User clicked on All Section successfully
+2023-05-03 17:04:10,587 - logger_File -INFO - user is on Sports section
+2023-05-03 17:04:10,850 - logger_File -INFO - Athletic Clothing options are present in departmentExercise & Fitness
+2023-05-03 17:04:17,119 - logger_File -INFO - React App is equal to React App
+2023-05-03 17:04:17,654 - logger_File -INFO - User clicked on All Section successfully
+2023-05-03 17:04:17,777 - logger_File -INFO - user is on Automotive section
+2023-05-03 17:04:18,054 - logger_File -INFO - MotorCycle & Powersports options are present in departmentAutomative Parts & Accessories
+2023-05-07 14:34:19,830 - logger_File -INFO - React App is equal to React App
+2023-05-07 14:34:20,469 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-07 14:34:20,826 - logger_File -INFO - user entered emailarash.bakhshi55@gmail.comand passwordAdell@123
+2023-05-07 14:34:20,931 - logger_File -INFO - user clicked on login button
+2023-05-07 14:34:21,179 - logger_File -INFO - User could login successfully
+2023-05-07 14:34:21,355 - logger_File -INFO - All Department changed toSmart Home
+2023-05-07 14:34:21,497 - logger_File -INFO - user entred kasa outdoor smart plug
+2023-05-07 14:34:21,599 - logger_File -INFO - user clicked on search button
+2023-05-07 14:34:21,801 - logger_File -INFO - user clicked on item
+2023-05-07 14:34:21,997 - logger_File -INFO - user selected quantity '2' 
+2023-05-07 14:34:22,174 - logger_File -INFO - user clicked on Add To Cart
+2023-05-07 14:34:22,201 - logger_File -INFO - cart icone changed to '2' 
+2023-05-08 14:40:11,903 - logger_File -INFO - React App is equal to React App
+2023-05-08 14:40:12,402 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 14:40:12,959 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 14:40:13,104 - logger_File -INFO - user clicked on login button
+2023-05-08 14:40:13,425 - logger_File -INFO - user logged in ito account
+2023-05-08 14:40:13,682 - logger_File -INFO - All Department changed toSmart Home
+2023-05-08 14:40:13,908 - logger_File -INFO - user entred kasa outdoor smart plug
+2023-05-08 14:40:14,089 - logger_File -INFO - user clicked on search button
+2023-05-08 14:40:14,304 - logger_File -INFO - user clicked on item
+2023-05-08 14:40:14,583 - logger_File -INFO - user selected quantity '2' 
+2023-05-08 14:40:14,828 - logger_File -INFO - user clicked on Add To Cart
+2023-05-08 14:40:14,872 - logger_File -INFO - cart icone changed to '2' 
+2023-05-08 14:40:15,087 - logger_File -INFO - user clicked on Cart Option
+2023-05-08 14:40:15,335 - logger_File -INFO - user clicked on Proceed to Checkout
+2023-05-08 14:40:15,638 - logger_File -INFO - user clicked on Add New Address link
+2023-05-08 14:40:17,160 - logger_File -INFO - User filled the field
+2023-05-08 14:40:17,370 - logger_File -INFO - user clicked Add Your Address Button
+2023-05-08 14:40:17,572 - logger_File -INFO - user clicked Add a credit card information
+2023-05-08 14:40:19,121 - logger_File -INFO - user clicked on Add Your card button
+2023-05-08 14:59:02,118 - logger_File -INFO - React App is equal to React App
+2023-05-08 14:59:02,625 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 14:59:03,148 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 14:59:03,288 - logger_File -INFO - user clicked on login button
+2023-05-08 14:59:03,622 - logger_File -INFO - user logged in ito account
+2023-05-08 14:59:03,851 - logger_File -INFO - All Department changed toSmart Home
+2023-05-08 14:59:04,061 - logger_File -INFO - user entred kasa outdoor smart plug
+2023-05-08 14:59:04,186 - logger_File -INFO - user clicked on search button
+2023-05-08 14:59:04,477 - logger_File -INFO - user clicked on item
+2023-05-08 14:59:04,738 - logger_File -INFO - user selected quantity '2' 
+2023-05-08 14:59:04,966 - logger_File -INFO - user clicked on Add To Cart
+2023-05-08 14:59:05,001 - logger_File -INFO - cart icone changed to '2' 
+2023-05-08 14:59:05,195 - logger_File -INFO - user clicked on Cart Option
+2023-05-08 14:59:05,470 - logger_File -INFO - user clicked on Proceed to Checkout
+2023-05-08 14:59:05,747 - logger_File -INFO - user clicked on Add New Address link
+2023-05-08 14:59:07,133 - logger_File -INFO - User filled the field
+2023-05-08 14:59:07,316 - logger_File -INFO - user clicked Add Your Address Button
+2023-05-08 14:59:07,474 - logger_File -INFO - user clicked Add a credit card information
+2023-05-08 14:59:08,868 - logger_File -INFO - user clicked on Add Your card button
+2023-05-08 15:00:47,290 - logger_File -INFO - React App is equal to React App
+2023-05-08 15:00:47,867 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 15:00:48,391 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 15:00:48,519 - logger_File -INFO - user clicked on login button
+2023-05-08 15:00:48,840 - logger_File -INFO - user logged in ito account
+2023-05-08 15:00:49,069 - logger_File -INFO - All Department changed toSmart Home
+2023-05-08 15:00:49,275 - logger_File -INFO - user entred kasa outdoor smart plug
+2023-05-08 15:00:49,400 - logger_File -INFO - user clicked on search button
+2023-05-08 15:00:49,721 - logger_File -INFO - user clicked on item
+2023-05-08 15:00:50,162 - logger_File -INFO - user selected quantity '2' 
+2023-05-08 15:00:50,304 - logger_File -INFO - user clicked on Add To Cart
+2023-05-08 15:00:50,348 - logger_File -INFO - cart icone changed to '2' 
+2023-05-08 15:00:50,525 - logger_File -INFO - user clicked on Cart Option
+2023-05-08 15:00:50,747 - logger_File -INFO - user clicked on Proceed to Checkout
+2023-05-08 15:00:51,053 - logger_File -INFO - user clicked on Add New Address link
+2023-05-08 15:00:52,449 - logger_File -INFO - User filled the field
+2023-05-08 15:00:52,653 - logger_File -INFO - user clicked Add Your Address Button
+2023-05-08 15:00:52,881 - logger_File -INFO - user clicked Add a credit card information
+2023-05-08 15:00:54,298 - logger_File -INFO - user clicked on Add Your card button
+2023-05-08 15:02:27,893 - logger_File -INFO - React App is equal to React App
+2023-05-08 15:02:28,239 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 15:02:28,780 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 15:02:28,915 - logger_File -INFO - user clicked on login button
+2023-05-08 15:02:29,234 - logger_File -INFO - user logged in ito account
+2023-05-08 15:02:29,479 - logger_File -INFO - All Department changed toSmart Home
+2023-05-08 15:02:29,659 - logger_File -INFO - user entred kasa outdoor smart plug
+2023-05-08 15:02:29,798 - logger_File -INFO - user clicked on search button
+2023-05-08 15:02:30,085 - logger_File -INFO - user clicked on item
+2023-05-08 15:02:30,595 - logger_File -INFO - user selected quantity '2' 
+2023-05-08 15:02:30,745 - logger_File -INFO - user clicked on Add To Cart
+2023-05-08 15:02:30,805 - logger_File -INFO - cart icone changed to '2' 
+2023-05-08 15:02:31,000 - logger_File -INFO - user clicked on Cart Option
+2023-05-08 15:02:31,285 - logger_File -INFO - user clicked on Proceed to Checkout
+2023-05-08 15:02:31,538 - logger_File -INFO - user clicked on Add New Address link
+2023-05-08 15:02:32,899 - logger_File -INFO - User filled the field
+2023-05-08 15:02:33,078 - logger_File -INFO - user clicked Add Your Address Button
+2023-05-08 15:02:33,250 - logger_File -INFO - user clicked Add a credit card information
+2023-05-08 15:02:34,540 - logger_File -INFO - user clicked on Add Your card button
+2023-05-08 15:02:34,779 - logger_File -INFO - user clicked on Place Your Order
+2023-05-08 15:02:35,034 - logger_File -INFO - A message popped up on the top of the screen
+2023-05-08 15:07:14,096 - logger_File -INFO - React App is equal to React App
+2023-05-08 15:07:14,638 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 15:07:15,147 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 15:07:15,294 - logger_File -INFO - user clicked on login button
+2023-05-08 15:07:15,579 - logger_File -INFO - user logged in ito account
+2023-05-08 15:07:15,807 - logger_File -INFO - All Department changed toElectronics
+2023-05-08 15:07:15,960 - logger_File -INFO - user entred Apex Legends
+2023-05-08 15:07:16,087 - logger_File -INFO - user clicked on search button
+2023-05-08 15:07:16,376 - logger_File -INFO - user clicked on item
+2023-05-08 15:07:16,843 - logger_File -INFO - user selected quantity '5' 
+2023-05-08 15:07:16,968 - logger_File -INFO - user clicked on Add To Cart
+2023-05-08 15:07:17,008 - logger_File -INFO - cart icone changed to '5' 
+2023-05-08 15:07:17,202 - logger_File -INFO - user clicked on Cart Option
+2023-05-08 15:07:17,458 - logger_File -INFO - user clicked on Proceed to Checkout
+2023-05-08 15:07:17,685 - logger_File -INFO - user clicked on Place Your Order
+2023-05-08 15:07:17,931 - logger_File -INFO - A message popped up on the top of the screen
+2023-05-08 15:14:36,004 - logger_File -INFO - React App is equal to React App
+2023-05-08 15:14:36,315 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 15:14:36,846 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 15:14:36,977 - logger_File -INFO - user clicked on login button
+2023-05-08 15:14:37,259 - logger_File -INFO - user logged in ito account
+2023-05-08 15:14:37,590 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:14:40,732 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:14:44,592 - logger_File -INFO - user entered name and phone successfully
+2023-05-08 15:21:52,975 - logger_File -INFO - React App is equal to React App
+2023-05-08 15:21:53,273 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 15:21:53,767 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 15:21:53,924 - logger_File -INFO - user clicked on login button
+2023-05-08 15:21:54,580 - logger_File -INFO - user logged in ito account
+2023-05-08 15:21:54,926 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:21:58,038 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:22:01,806 - logger_File -INFO - user entered name and phone successfully
+2023-05-08 15:25:37,556 - logger_File -INFO - React App is equal to React App
+2023-05-08 15:25:38,134 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 15:25:38,627 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 15:25:38,776 - logger_File -INFO - user clicked on login button
+2023-05-08 15:25:39,051 - logger_File -INFO - user logged in ito account
+2023-05-08 15:25:39,386 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:25:42,528 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:25:46,299 - logger_File -INFO - user entered name and phone successfully
+2023-05-08 15:26:56,327 - logger_File -INFO - React App is equal to React App
+2023-05-08 15:26:56,867 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 15:26:57,380 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 15:26:57,516 - logger_File -INFO - user clicked on login button
+2023-05-08 15:26:57,875 - logger_File -INFO - user logged in ito account
+2023-05-08 15:26:58,226 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:27:01,359 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:27:05,096 - logger_File -INFO - user entered name and phone successfully
+2023-05-08 15:29:07,672 - logger_File -INFO - React App is equal to React App
+2023-05-08 15:29:08,047 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 15:29:08,543 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 15:29:08,672 - logger_File -INFO - user clicked on login button
+2023-05-08 15:29:08,959 - logger_File -INFO - user logged in ito account
+2023-05-08 15:29:09,234 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:29:12,356 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:29:16,068 - logger_File -INFO - user entered name and phone successfully
+2023-05-08 15:29:16,220 - logger_File -INFO - user clicked on update button
+2023-05-08 15:33:56,933 - logger_File -INFO - React App is equal to React App
+2023-05-08 15:33:57,260 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 15:33:57,803 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 15:33:57,931 - logger_File -INFO - user clicked on login button
+2023-05-08 15:33:58,188 - logger_File -INFO - user logged in ito account
+2023-05-08 15:33:58,524 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:34:01,640 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:34:05,375 - logger_File -INFO - user entered name and phone successfully
+2023-05-08 15:34:05,521 - logger_File -INFO - user clicked on update button
+2023-05-08 15:37:16,208 - logger_File -INFO - React App is equal to React App
+2023-05-08 15:37:16,795 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 15:37:17,319 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 15:37:17,446 - logger_File -INFO - user clicked on login button
+2023-05-08 15:37:17,749 - logger_File -INFO - user logged in ito account
+2023-05-08 15:37:18,081 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:37:21,205 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:37:24,991 - logger_File -INFO - user entered name and phone successfully
+2023-05-08 15:37:25,147 - logger_File -INFO - user clicked on update button
+2023-05-08 15:42:11,412 - logger_File -INFO - React App is equal to React App
+2023-05-08 15:42:12,063 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 15:42:12,636 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 15:42:12,802 - logger_File -INFO - user clicked on login button
+2023-05-08 15:42:13,095 - logger_File -INFO - user logged in ito account
+2023-05-08 15:42:13,425 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:42:16,584 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:42:20,301 - logger_File -INFO - user entered name and phone successfully
+2023-05-08 15:47:53,360 - logger_File -INFO - React App is equal to React App
+2023-05-08 15:47:53,609 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 15:47:54,242 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 15:47:54,379 - logger_File -INFO - user clicked on login button
+2023-05-08 15:47:54,651 - logger_File -INFO - user logged in ito account
+2023-05-08 15:47:54,973 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:47:58,079 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:48:01,827 - logger_File -INFO - user entered name and phone successfully
+2023-05-08 15:48:01,984 - logger_File -INFO - user clicked on update button
+2023-05-08 15:52:17,503 - logger_File -INFO - React App is equal to React App
+2023-05-08 15:52:18,032 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 15:52:18,729 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 15:52:18,893 - logger_File -INFO - user clicked on login button
+2023-05-08 15:52:19,278 - logger_File -INFO - user logged in ito account
+2023-05-08 15:52:19,603 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:52:22,731 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:52:26,430 - logger_File -INFO - user entered name and phone successfully
+2023-05-08 15:52:26,582 - logger_File -INFO - user clicked on update button
+2023-05-08 15:55:00,912 - logger_File -INFO - React App is equal to React App
+2023-05-08 15:55:01,181 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 15:55:01,804 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 15:55:01,940 - logger_File -INFO - user clicked on login button
+2023-05-08 15:55:02,233 - logger_File -INFO - user logged in ito account
+2023-05-08 15:55:02,553 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:55:05,677 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:55:09,396 - logger_File -INFO - user entered name and phone successfully
+2023-05-08 15:55:09,551 - logger_File -INFO - user clicked on update button
+2023-05-08 15:57:58,090 - logger_File -INFO - React App is equal to React App
+2023-05-08 15:57:58,632 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 15:57:59,162 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 15:57:59,289 - logger_File -INFO - user clicked on login button
+2023-05-08 15:57:59,564 - logger_File -INFO - user logged in ito account
+2023-05-08 15:57:59,877 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:58:03,005 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:58:06,760 - logger_File -INFO - user entered name and phone successfully
+2023-05-08 15:59:15,992 - logger_File -INFO - React App is equal to React App
+2023-05-08 15:59:16,263 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 15:59:16,753 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 15:59:16,883 - logger_File -INFO - user clicked on login button
+2023-05-08 15:59:17,169 - logger_File -INFO - user logged in ito account
+2023-05-08 15:59:17,512 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:59:20,651 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 15:59:24,409 - logger_File -INFO - user entered name and phone successfully
+2023-05-08 15:59:24,579 - logger_File -INFO - user clicked on update button
+2023-05-08 16:02:39,993 - logger_File -INFO - React App is equal to React App
+2023-05-08 16:02:40,286 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 16:02:40,894 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 16:02:41,049 - logger_File -INFO - user clicked on login button
+2023-05-08 16:02:41,461 - logger_File -INFO - user logged in ito account
+2023-05-08 16:02:41,783 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 16:02:44,903 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 16:02:48,630 - logger_File -INFO - user entered name and phone successfully
+2023-05-08 16:03:51,570 - logger_File -INFO - React App is equal to React App
+2023-05-08 16:03:52,099 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 16:03:52,602 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 16:03:52,748 - logger_File -INFO - user clicked on login button
+2023-05-08 16:03:53,032 - logger_File -INFO - user logged in ito account
+2023-05-08 16:03:53,342 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 16:03:56,461 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 16:04:00,203 - logger_File -INFO - user entered name and phone successfully
+2023-05-08 16:04:00,362 - logger_File -INFO - user clicked on update button
+2023-05-08 16:28:52,515 - logger_File -INFO - React App is equal to React App
+2023-05-08 16:28:53,137 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 16:28:53,606 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 16:28:53,757 - logger_File -INFO - user clicked on login button
+2023-05-08 16:28:54,035 - logger_File -INFO - user logged in ito account
+2023-05-08 16:28:54,322 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 16:28:57,471 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 16:29:01,091 - logger_File -INFO - user profile information should be updated
+2023-05-08 16:29:53,820 - logger_File -INFO - React App is equal to React App
+2023-05-08 16:29:54,416 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-08 16:29:54,839 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-08 16:29:54,948 - logger_File -INFO - user clicked on login button
+2023-05-08 16:29:55,194 - logger_File -INFO - user logged in ito account
+2023-05-08 16:29:55,421 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 16:29:58,526 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-08 16:30:02,086 - logger_File -INFO - user profile information should be updated
+2023-05-08 16:30:02,220 - logger_File -INFO - user clicked on update button
+2023-05-08 16:30:08,259 - logger_File -INFO - user profile updated successfully
+2023-05-09 17:35:58,303 - logger_File -INFO - React App is equal to React App
+2023-05-09 17:35:58,852 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-09 17:35:59,293 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-09 17:35:59,410 - logger_File -INFO - user clicked on login button
+2023-05-09 17:35:59,667 - logger_File -INFO - user logged in ito account
+2023-05-09 17:35:59,901 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-09 17:36:03,461 - logger_File -INFO - user entred below info
+2023-05-09 17:36:06,593 - logger_File -INFO - user clicked on Change Password Button
+2023-05-09 17:38:27,046 - logger_File -INFO - React App is equal to React App
+2023-05-09 17:38:27,578 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-09 17:38:27,991 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-09 17:38:28,100 - logger_File -INFO - user clicked on login button
+2023-05-09 17:38:28,353 - logger_File -INFO - user logged in ito account
+2023-05-09 17:38:28,584 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-09 17:38:32,097 - logger_File -INFO - user entred below info
+2023-05-09 17:38:35,251 - logger_File -INFO - user clicked on Change Password Button
+2023-05-09 17:38:38,287 - logger_File -INFO - Password Updated Successfully
+2023-05-13 17:10:35,576 - logger_File -INFO - React App is equal to React App
+2023-05-13 17:10:35,804 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-13 17:10:36,260 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@1234
+2023-05-13 17:10:36,365 - logger_File -INFO - user clicked on login button
+2023-05-13 17:10:36,722 - logger_File -INFO - user logged in ito account
+2023-05-13 17:10:36,953 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-13 17:10:40,086 - logger_File -INFO - user clicked on Add Payment
+2023-05-13 17:10:40,965 - logger_File -INFO - user clicked on add card btn
+2023-05-13 17:11:53,042 - logger_File -INFO - React App is equal to React App
+2023-05-13 17:11:53,337 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-13 17:11:53,785 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@1234
+2023-05-13 17:11:53,883 - logger_File -INFO - user clicked on login button
+2023-05-13 17:11:54,254 - logger_File -INFO - user logged in ito account
+2023-05-13 17:11:54,510 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-13 17:11:57,627 - logger_File -INFO - user clicked on Add Payment
+2023-05-13 17:11:58,484 - logger_File -INFO - user clicked on add card btn
+2023-05-13 17:12:01,522 - logger_File -INFO - Payment Method added successfully
+2023-05-13 17:15:15,261 - logger_File -INFO - React App is equal to React App
+2023-05-13 17:15:15,757 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-13 17:15:16,136 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@1234
+2023-05-13 17:15:16,238 - logger_File -INFO - user clicked on login button
+2023-05-13 17:15:16,517 - logger_File -INFO - user logged in ito account
+2023-05-13 17:15:16,731 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-13 17:15:19,874 - logger_File -INFO - User clicked on payment card
+2023-05-13 17:15:23,020 - logger_File -INFO - user clicked on Edit
+2023-05-13 17:15:24,063 - logger_File -INFO - user successfully entred the info
+2023-05-13 17:15:27,190 - logger_File -INFO - user clicked on updateBttn
+2023-05-13 17:15:30,240 - logger_File -INFO - Payment Method added successfully
+2023-05-13 17:16:48,301 - logger_File -INFO - React App is equal to React App
+2023-05-13 17:16:48,508 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-13 17:16:48,963 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@1234
+2023-05-13 17:16:49,107 - logger_File -INFO - user clicked on login button
+2023-05-13 17:16:49,454 - logger_File -INFO - user logged in ito account
+2023-05-13 17:16:49,735 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-13 17:16:52,876 - logger_File -INFO - User clicked on payment card
+2023-05-13 17:16:55,993 - logger_File -INFO - User clicked on remove option
+2023-05-13 17:16:59,004 - logger_File -INFO - Details removed successfully
+2023-05-13 17:18:44,307 - logger_File -INFO - React App is equal to React App
+2023-05-13 17:18:44,815 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-13 17:18:45,233 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@1234
+2023-05-13 17:18:45,350 - logger_File -INFO - user clicked on login button
+2023-05-13 17:18:45,644 - logger_File -INFO - user logged in ito account
+2023-05-13 17:18:45,904 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-13 17:18:49,065 - logger_File -INFO - userClickedInAddAddressOption
+2023-05-13 17:20:38,292 - logger_File -INFO - React App is equal to React App
+2023-05-13 17:20:38,742 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-13 17:20:39,184 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@1234
+2023-05-13 17:20:39,300 - logger_File -INFO - user clicked on login button
+2023-05-13 17:20:39,544 - logger_File -INFO - user logged in ito account
+2023-05-13 17:20:39,781 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-13 17:20:42,968 - logger_File -INFO - userClickedInAddAddressOption
+2023-05-13 17:23:05,359 - logger_File -INFO - React App is equal to React App
+2023-05-13 17:23:05,546 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-13 17:23:05,970 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@1234
+2023-05-13 17:23:06,080 - logger_File -INFO - user clicked on login button
+2023-05-13 17:23:06,453 - logger_File -INFO - user logged in ito account
+2023-05-13 17:23:06,687 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-13 17:23:09,850 - logger_File -INFO - userClickedInAddAddressOption
+2023-05-13 17:23:11,081 - logger_File -INFO - User filled the field
+2023-05-13 17:23:14,244 - logger_File -INFO - User successfully clicked on Add Your Address button
+2023-05-13 17:23:17,287 - logger_File -INFO - Address Added Successfully
+2023-05-13 17:24:23,014 - logger_File -INFO - React App is equal to React App
+2023-05-13 17:24:23,241 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-13 17:24:23,692 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@1234
+2023-05-13 17:24:23,796 - logger_File -INFO - user clicked on login button
+2023-05-13 17:24:24,155 - logger_File -INFO - user logged in ito account
+2023-05-13 17:24:24,406 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-13 17:24:27,569 - logger_File -INFO - user clicked on Edit button
+2023-05-13 17:24:29,250 - logger_File -INFO - User filled the field
+2023-05-13 17:24:32,396 - logger_File -INFO - User clicked on Update Your Address
+2023-05-13 17:24:35,436 - logger_File -INFO - Your New Address Updated
+2023-05-13 17:25:25,804 - logger_File -INFO - React App is equal to React App
+2023-05-13 17:25:26,253 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-13 17:25:26,637 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@1234
+2023-05-13 17:25:26,739 - logger_File -INFO - user clicked on login button
+2023-05-13 17:25:27,024 - logger_File -INFO - user logged in ito account
+2023-05-13 17:25:27,239 - logger_File -INFO - user successfylly clicked on Account option
+2023-05-13 17:25:30,368 - logger_File -INFO - User clicked on remove button
+2023-05-13 17:25:30,369 - logger_File -INFO - User removed the address
+2023-05-13 17:26:55,255 - logger_File -INFO - React App is equal to React App
+2023-05-13 17:26:55,460 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-13 17:26:55,892 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@123
+2023-05-13 17:26:55,996 - logger_File -INFO - user clicked on login button
+2023-05-13 17:28:24,502 - logger_File -INFO - React App is equal to React App
+2023-05-13 17:28:25,008 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-13 17:28:25,419 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@1234
+2023-05-13 17:28:25,522 - logger_File -INFO - user clicked on login button
+2023-05-13 17:28:25,764 - logger_File -INFO - user logged in ito account
+2023-05-13 17:28:25,978 - logger_File -INFO - User clicked on Order Section
+2023-05-13 17:28:26,140 - logger_File -INFO - User clicked on first order from the list
+2023-05-13 17:28:26,278 - logger_File -INFO - User clicked on Cancel The Order Button
+2023-05-13 17:28:26,402 - logger_File -INFO - User picked 'Bought Wrong Item' from list
+2023-05-13 17:28:26,502 - logger_File -INFO - User clicked on 'Cancel Order Button
+2023-05-13 17:28:26,607 - logger_File -INFO - A message displayed as 'Your Order Has Been Cancelled'
+2023-05-13 17:31:12,000 - logger_File -INFO - React App is equal to React App
+2023-05-13 17:31:12,249 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-13 17:31:12,720 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@1234
+2023-05-13 17:31:12,837 - logger_File -INFO - user clicked on login button
+2023-05-13 17:31:13,227 - logger_File -INFO - user logged in ito account
+2023-05-13 17:31:13,477 - logger_File -INFO - User clicked on Order Section
+2023-05-13 17:31:13,684 - logger_File -INFO - User clicked on first order from the list
+2023-05-13 17:31:13,844 - logger_File -INFO - User clicked on Return Items Button
+2023-05-13 17:31:13,969 - logger_File -INFO - User Select Reason Item Damaged
+2023-05-13 17:31:14,072 - logger_File -INFO - User select the drop off as Fedex
+2023-05-13 17:31:14,176 - logger_File -INFO - User click on Return Order button
+2023-05-13 17:31:14,345 - logger_File -INFO - A cancelation message popped up on the top of the page
+2023-05-13 17:33:07,247 - logger_File -INFO - React App is equal to React App
+2023-05-13 17:33:07,442 - logger_File -INFO - user clicked on sign in option succefully
+2023-05-13 17:33:07,815 - logger_File -INFO - user entered email arash.bakhshi55@gmail.comand password Adell@1234
+2023-05-13 17:33:07,916 - logger_File -INFO - user clicked on login button
+2023-05-13 17:33:09,812 - logger_File -INFO - user logged in ito account
+2023-05-13 17:33:09,963 - logger_File -INFO - User clicked on Order Section
+2023-05-13 17:33:12,183 - logger_File -INFO - User clicked on first order from the list
+2023-05-13 17:33:12,304 - logger_File -INFO - User click on Review Button
+2023-05-13 17:33:12,661 - logger_File -INFO - User write review on headline and review text
+2023-05-13 17:33:12,782 - logger_File -INFO - User click add review button
+2023-05-13 17:33:15,824 - logger_File -INFO - A message diplayed Your Review Was Added Successfully
