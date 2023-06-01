@@ -56,12 +56,12 @@ Feature: Retail Home Page
     And User click Add a new address link for shipping address
     And User fill the new address form with below information
       | Country       | FullName    | PhoneNumber | StreetAddress  | Apt | City         | State    | ZipCode |
-      | United States | Ashraf Khan |  8178333500 | 345 School Ave |  33 | Falls Church | Virginia |   78135 |
+      | United States | Ashraf Khan |  8178333511 | 345 School Ave |  33 | Falls Church | Virginia |   78135 |
     And User click Add Your Address  button
     And User click Add a credit card or Debit Card for Payment method
     And User fill the Debit or credit card information
       | CardNumber       | NameOnCard | ExpirationMonth | ExpirationYear | SecurityCode |
-      | 4444772352819898 | Ali        |              13 |           2026 |          146 |
+      | 4444772352819800 | Ali        |              11 |           2026 |          146 |
     And User click on Add your card button
     And User click on Place Your Order
     Then a message should be displayed Order Placed, Thanks
