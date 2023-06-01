@@ -1319,3 +1319,8 @@
 2023-05-13 17:33:12,661 - logger_File -INFO - User write review on headline and review text
 2023-05-13 17:33:12,782 - logger_File -INFO - User click add review button
 2023-05-13 17:33:15,824 - logger_File -INFO - A message diplayed Your Review Was Added Successfully
+2023-05-31 18:15:33,037 - logger_File -INFO - React App is equal to React App
+2023-05-31 18:15:33,457 - logger_File -INFO - user clicked on Sign In option
+2023-05-31 18:15:33,954 - logger_File -INFO - user entered email John01@gmail.comand password John123@
+2023-05-31 18:15:34,145 - logger_File -INFO - user clicked on login button
+2023-05-31 18:15:35,053 - logger_File -INFO - user logged in ito account
